@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/marsz/twd97.svg)](https://travis-ci.org/marsz/twd97)
+
 Installation
 ============
 
